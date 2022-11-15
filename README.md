@@ -1,4 +1,4 @@
-## Hi there 👋 I’m a future Frontend Developer
+## Hi there 👋 I’m a Junior Frontend Developer
 
 
 - 👨🏼‍💻Learning ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-281616?style=flat-square&logo=javascript) ![html badge](https://img.shields.io/badge/-HTML-281616?style=flat-square&logo=html5) ![css badge](https://img.shields.io/badge/-CSS-281616?style=flat-square&logo=css3) Going to study ![react badge](https://img.shields.io/badge/-REACT-212616?style=flat-square&logo=react) ![redux badge](https://img.shields.io/badge/-REDUX-212616?style=flat-square&logo=redux)
